@@ -99,3 +99,5 @@ Replace below properties in file python_tutorial_client.py with your actual valu
 ## Running the Sample
 
 Execute python_tutorial_client.py and output should like below.
+
+![Execute  output](Images/a.png?raw=true)
