@@ -8,7 +8,7 @@ author: msonecode
 
 ## Introduction
 
-A get-started Azure Batch sample written in Python, using Cloud Service Configuration for compute nodes in Batch pool.
+A get-started Azure Batch sample written in Python, using Cloud Service Configuration for computing nodes in Batch pool.
 <br/>
 <br/>
 <br/>
@@ -33,7 +33,7 @@ https://www.python.org/downloads/
 
 *__Azure Storage and Azure Batch Python packages__*
 
-Install packages with below commands in cmd.
+Install packages with the below commands in cmd.
 
 ```python
 py -m pip install -U pip
@@ -64,7 +64,7 @@ https://docs.microsoft.com/en-us/azure/storage/storage-create-storage-account#cr
 
 ## Build the Sample
 
-Prepare below information from Azure portal.
+Prepare the information at below from Azure portal.
 
 *__A batch account__*
 
@@ -80,7 +80,7 @@ Prepare below information from Azure portal.
 
 •	The storage account key
 
-Replace below properties in file python_tutorial_client.py with your actual value:
+Replace the following properties in file python_tutorial_client.py with your actual values:
 
 `_BATCH_ACCOUNT_NAME = ''`
 
@@ -98,6 +98,6 @@ Replace below properties in file python_tutorial_client.py with your actual valu
 
 ## Running the Sample
 
-Execute python_tutorial_client.py and output should like below.
+Execute python_tutorial_client.py and see the output displayed as below.
 
 ![Execute  output](Images/a.png?raw=true)
