@@ -98,6 +98,6 @@ Replace the following properties in file python_tutorial_client.py with your act
 
 ## Running the Sample
 
-Execute python_tutorial_client.py and see the output displayed as below.
+Execute python_tutorial_client.py and the upload file state, create batch pool, job and task will output in console.
 
 ![Execute  output](Images/a.png?raw=true)
