@@ -4,11 +4,11 @@ platforms: python
 author: msonecode
 ---
 
-# Create Azure Batch PaaS Cloud Service by Python
+# How to create Azure Batch PaaS Cloud service by Python
 
 ## Introduction
 
-A get-started Azure Batch sample written in Python, using Cloud Service Configuration for computing nodes in Batch pool.
+This sample provides a get-started Azure Batch sample written in Python. Cloud Service Configuration is used for computing nodes in Batch pool.
 <br/>
 <br/>
 <br/>
@@ -17,7 +17,7 @@ A get-started Azure Batch sample written in Python, using Cloud Service Configur
 
 *__Python Tools for Visual Studio__*
 
-Install Python Tools for Visual Studio.
+Install Python tools for Visual Studio.
 
 http://aka.ms/ptvs
 <br/>
@@ -98,6 +98,6 @@ Replace the following properties in file python_tutorial_client.py with your act
 
 ## Running the Sample
 
-Execute python_tutorial_client.py and the upload file state, create batch pool, job and task will output in console.
+Execute python_tutorial_client.py and the upload file state. Then, create batch pool so that job and task will output in console.
 
 ![Execute  output](Images/a.png?raw=true)
